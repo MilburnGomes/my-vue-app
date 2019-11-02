@@ -32,7 +32,7 @@ $ npm run serve
 
 App running at:
 - Local:http://localhost:8080/
-- Network: http://172.21.10.178:8080/
+- Network: http://<IP Address>:8080/
 
 To create a production build, run npm run build
 
